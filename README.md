@@ -116,3 +116,5 @@ The project is built with C++ and uses libraries.  **vcpkg** is recommended:
 ## License
 
 This project is under the [MIT License](/LICENSE).
+
+Update:  16.06.2025
